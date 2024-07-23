@@ -1,6 +1,6 @@
-#今天主要搭建了环境变量，
-##1.Env，git，vscode
-##2.git基本操作
+今天主要搭建了环境变量，
+1.Env，git，vscode
+2.git基本操作
 创建仓库git init
 
 添加文件到暂存区 git add .      (git add [file1] [file2])
