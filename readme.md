@@ -1,13 +1,1 @@
-今天主要搭建了环境变量，
-1.Env，git，vscode
-2.git基本操作
-创建仓库git init
-
-添加文件到暂存区 git add .      (git add [file1] [file2])
-
-将暂存区内容添加到本地仓库git commit
-$ git commit -m [message]
-
-从本地的分支版本上传到远程并合并 git push
-
-添加了两个项目，第一天的案例和hello的打印，调试
+本工程是2024年RTThread训练营的练习工程，包含了五天内的学习内容和之后的项目创建的内容，欢迎大家一起学习，一起进步。
