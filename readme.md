@@ -9,3 +9,5 @@
 $ git commit -m [message]
 
 从本地的分支版本上传到远程并合并 git push
+
+添加了两个项目，第一天的案例和hello的打印，调试
